@@ -18,7 +18,7 @@ The learning resoources and schedule that I would follow in order to have deep f
 
 ## Software Engineering
 
-- [CMU: Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2020-spring/index.html)
+- [MIT 6.031: Software Construction](http://web.mit.edu/6.031/www/sp20/)
 - [CMU: Foundations of Software Engineering](http://www.cs.cmu.edu/~ckaestne/17313/2018/)
 
 ## Software Frameworks/Libraries
