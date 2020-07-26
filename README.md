@@ -2,6 +2,10 @@
 
 The learning resoources and schedule that I would follow in order to have deep foundation knowledge in becoming a machine learning practitioner
 
+## Mathematics
+
+- [MIT: Mathematical Modeling](http://fab.cba.mit.edu/classes/864.20/index.html)
+
 ## Algorithms
 
 - [CMU: Parallel and Sequential Data Structures and Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15210-s19/s19_www/index.html)
@@ -20,9 +24,6 @@ The learning resoources and schedule that I would follow in order to have deep f
 
 - [MIT 6.031: Software Construction](http://web.mit.edu/6.031/www/sp20/)
 - [CMU: Foundations of Software Engineering](http://www.cs.cmu.edu/~ckaestne/17313/2018/)
-
-## Software Frameworks/Libraries
-
 
 ## AI
 
