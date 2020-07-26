@@ -2,9 +2,9 @@
 
 The learning resoources and schedule that I would follow in order to have deep foundation knowledge in becoming a machine learning practitioner
 
-## Mathematics
+## Programming
 
-- [MIT: Mathematical Modeling](http://fab.cba.mit.edu/classes/864.20/index.html)
+- Python Tricks
 
 ## Algorithms
 
