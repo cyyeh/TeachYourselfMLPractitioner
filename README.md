@@ -16,12 +16,13 @@ The learning resoources and schedule that I would follow in order to have deep f
 - [Stanford CS149: Parallel Computing](http://cs149.stanford.edu/fall19/home)
 - [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
 
-## Frameworks/Libraries
+## Software Engineering
 
-
-## Others
-
+- [CMU: Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2020-spring/index.html)
 - [CMU: Foundations of Software Engineering](http://www.cs.cmu.edu/~ckaestne/17313/2018/)
+
+## Software Frameworks/Libraries
+
 
 ## AI
 
