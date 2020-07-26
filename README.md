@@ -4,8 +4,8 @@ The learning resoources and schedule that I would follow in order to have deep f
 
 ## Algorithms
 
-- [Berkeley CS61B: Data Structures](https://inst.eecs.berkeley.edu/~cs61b/sp20/)
-- [Berkeley CS170: Efficient Algorithms and Intractable Problems](https://cs170.org/)
+- [CMU: Parallel and Sequential Data Structures and Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15210-s19/s19_www/index.html)
+- [CMU: Algorithms](https://www.cs.cmu.edu/~15451-s20/schedule.html)
 
 ## Computer Systems
 
@@ -14,6 +14,14 @@ The learning resoources and schedule that I would follow in order to have deep f
 - [Stanford CS245: Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
 - [Stanford CS349D: Cloud Computing Technology](http://web.stanford.edu/class/cs349d/)
 - [Stanford CS149: Parallel Computing](http://cs149.stanford.edu/fall19/home)
+- [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+## Frameworks/Libraries
+
+
+## Others
+
+- [CMU: Foundations of Software Engineering](http://www.cs.cmu.edu/~ckaestne/17313/2018/)
 
 ## AI
 
