@@ -6,10 +6,13 @@ The learning resoources and schedule that I would follow in order to have deep f
 
 - Python Tricks
 
+## Mathematics
+
+
+
 ## Algorithms
 
-- [CMU: Parallel and Sequential Data Structures and Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15210-s19/s19_www/index.html)
-- [CMU: Algorithms](https://www.cs.cmu.edu/~15451-s20/schedule.html)
+- [The Algorithm Design Manual](http://www.algorist.com/)
 
 ## Computer Systems
 
@@ -22,7 +25,6 @@ The learning resoources and schedule that I would follow in order to have deep f
 
 ## Software Engineering
 
-- [MIT 6.031: Software Construction](http://web.mit.edu/6.031/www/sp20/)
 - [CMU: Foundations of Software Engineering](http://www.cs.cmu.edu/~ckaestne/17313/2018/)
 
 ## AI
