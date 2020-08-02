@@ -4,7 +4,7 @@ The learning resoources and schedule that I would follow in order to have deep f
 
 ## Programming
 
-- Python Tricks
+- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301)
 
 ## Mathematics
 
