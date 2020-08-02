@@ -40,4 +40,4 @@ The learning resoources and schedule that I would follow in order to have deep f
 
 ## AI
 
-- [Stanford CS320: Value of Data and AI](https://canvas.stanford.edu/courses/114221)
+- [ ] [Stanford CS320: Value of Data and AI](https://canvas.stanford.edu/courses/114221)
